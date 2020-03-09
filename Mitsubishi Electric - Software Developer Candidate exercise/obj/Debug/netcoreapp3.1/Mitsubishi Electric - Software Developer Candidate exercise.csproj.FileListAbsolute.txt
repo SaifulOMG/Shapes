@@ -1,0 +1,11 @@
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\bin\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.exe
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\bin\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.deps.json
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\bin\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.runtimeconfig.json
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\bin\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.runtimeconfig.dev.json
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\bin\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.dll
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\bin\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.pdb
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\obj\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.csprojAssemblyReference.cache
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\obj\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.AssemblyInfoInputs.cache
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\obj\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.AssemblyInfo.cs
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\obj\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.dll
+C:\Users\saifu\OneDrive\Desktop\Mitsubishi Electric - Software Developer Candidate exercise\obj\Debug\netcoreapp3.1\Mitsubishi Electric - Software Developer Candidate exercise.pdb
